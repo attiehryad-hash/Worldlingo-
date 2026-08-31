@@ -1,0 +1,6 @@
+{
+  "name": "GlobalLingo - تعلم لغات العالم بـ 80 مرحلة",
+  "description": "منصة شاملة وتفاعلية لتعلم جميع لغات العالم عبر مسار متكامل من 80 مرحلة تعليمية لكل لغة، مع تمارين ذكية، نطق صوتي، واختبارات تفاعلية مدعومة بالذكاء الاصطناعي.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
